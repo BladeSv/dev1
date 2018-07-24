@@ -12,6 +12,7 @@
   
  <dependencies>
  <dependency>
+ <!-- testNG  -->
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>6.11</version>
